@@ -9,7 +9,7 @@ with open('dfA.pkl','rb') as file:
     df = pickle.load(file)
 
 
-with open('pipelineA.pkl','rb') as file:
+with open('pipeline_2.pkl','rb') as file:
     pipeline = pickle.load(file)
 
 
