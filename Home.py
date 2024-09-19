@@ -13,7 +13,3 @@ st.image("lovepik-residential-real-estate-picture_501609150.jpg", use_column_wid
 
 st.sidebar.success("select a demo above.")
 
-
-
-
-
